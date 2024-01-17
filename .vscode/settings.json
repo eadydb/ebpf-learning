@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "bpf_tracing.h": "c",
+        "bpf_helpers.h": "c",
+        "common.h": "c"
+    }
+}
